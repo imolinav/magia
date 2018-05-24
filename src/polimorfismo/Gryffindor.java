@@ -26,7 +26,7 @@ public class Gryffindor extends Alumno {
     }
     @Override
    public  String mostrarDeberes(){
-      return "Por supuesto los he hecho";
+      return "Somos los buenos";
    }
     @Override
     public  String mostrarCasa(){
