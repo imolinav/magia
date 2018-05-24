@@ -25,7 +25,7 @@ public class Hufflepuff extends Alumno {
     }
     @Override
    public  String mostrarDeberes(){
-       return "¿Había deberes?";
+       return "Nosotros somos los tontitos!";
    }
     @Override
     public  String mostrarCasa(){
@@ -36,4 +36,6 @@ public class Hufflepuff extends Alumno {
     public String decirAsignatura(){
         return "Lenguaje de marcas y runas";
     }
+
+
 }
